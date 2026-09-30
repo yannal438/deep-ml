@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**8** solved · 8 problems · 0 labs · 0 math
+**9** solved · 8 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-09-29 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Transformation Matrix from Basis B to C](https://www.deep-ml.com/problems/27) | easy | 2026-09-29 | [solution](problems/0027-transformation-matrix-from-basis-b-to-c) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-09-29 | [solution](problems/0002-transpose-of-a-matrix) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-09-30 | [solution](math/0030-ml-workflow-basics) |
 
 ---
 
