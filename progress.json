@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T11:15:01.485Z",
+  "generated_at": "2026-10-02T11:15:23.237Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -438,7 +438,7 @@
       "url": "https://www.deep-ml.com/problems/86",
       "path": "problems/0086-detect-overfitting-or-underfitting",
       "first_solved_at": "2026-10-02T11:14:59.434Z",
-      "last_pushed_at": "2026-10-02T11:14:59.434Z",
+      "last_pushed_at": "2026-10-02T11:15:21.772Z",
       "language": "python",
       "lines": 17
     }
