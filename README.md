@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**50** solved · 32 problems · 4 labs · 14 math
+**51** solved · 32 problems · 4 labs · 15 math
 
 ![Coverage](./coverage.svg)
 
@@ -64,6 +64,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-09-30 | [solution](math/0005-gradient-descent-updates) |
 | [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-10-02 | [solution](math/0009-matrix-basics) |
 | [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-09-30 | [solution](math/0030-ml-workflow-basics) |
+| [Model Selection: CV, AIC, and BIC](https://www.deep-ml.com/math-problems/43) | easy | 2026-10-06 | [solution](math/0043-model-selection-cv-aic-and-bic) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-10-02 | [solution](math/0007-vector-operations) |
 | [Bias–Variance Decomposition](https://www.deep-ml.com/math-problems/39) | medium | 2026-10-06 | [solution](math/0039-bias-variance-decomposition) |
 | [Least Squares and the Normal Equations](https://www.deep-ml.com/math-problems/34) | medium | 2026-09-30 | [solution](math/0034-least-squares-and-the-normal-equations) |
