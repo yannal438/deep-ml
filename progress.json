@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T23:42:40.735Z",
+  "generated_at": "2026-10-07T23:48:53.574Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -700,7 +700,7 @@
       "url": "https://www.deep-ml.com/problems/139",
       "path": "problems/0139-elastic-net-regression-via-gradient-descent",
       "first_solved_at": "2026-10-07T23:42:39.611Z",
-      "last_pushed_at": "2026-10-07T23:42:39.611Z",
+      "last_pushed_at": "2026-10-07T23:48:49.163Z",
       "language": "python",
       "lines": 46
     }
