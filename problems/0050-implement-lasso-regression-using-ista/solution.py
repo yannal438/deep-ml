@@ -14,7 +14,7 @@ def soft_threshold(w: np.ndarray, threshold: float) -> np.ndarray:
         - Values with |w| > λ are shrunk toward zero by λ
         - Values with |w| ≤ λ become exactly zero
     """
-    # Your code here
+    # Your code her
     S = np.sign(w) * np.maximum(np.abs(w) - threshold, 0)
     return S
 
@@ -45,15 +45,18 @@ def l1_regularization_gradient_descent(X: np.ndarray, y: np.ndarray, alpha: floa
     X = np.asarray(X)
     y = np.asarray(y).flatten()
     for i in range(max_iter):
-        w_old = weights.copy()
+        weights_old = weights.copy()
         y_pred = np.dot(X, weights) + bias
-        erreur = y_pred - y
+        erreur = y_pred - y 
         gradient_w = (1.0 / n_samples) * (X.T @ erreur)
         gradient_b = (1.0 / n_samples) * np.sum(erreur)
-        w_temp = weights - learning_rate * gradient_w
-        weights = soft_threshold(w_temp, learning_rate * alpha)
-        bias = bias - learning_rate * gradient_b
-        weights_change = np.max(np.abs(weights - w_old))
-        if weights_change <= tol:
-            break
-    return weights, float(bias)
+        weights_temps = weights - learning_rate * gradient_w 
+        weights = soft_threshold(weights_temps, learning_rate * alpha)
+        bias = bias - learning_rate * gradient_b 
+        w_change = np.max(np.abs(weights) - weights_old)
+        if w_change <= tol:
+            break 
+    return  weights, float(bias)
+    
+    # Your code here
+    pass
