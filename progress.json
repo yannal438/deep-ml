@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T19:38:56.856Z",
+  "generated_at": "2026-10-12T16:29:43.711Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -755,6 +755,19 @@
       "last_pushed_at": "2026-10-11T19:38:55.027Z",
       "language": "python",
       "lines": 48
+    },
+    "problem:804": {
+      "kind": "problem",
+      "id": "804",
+      "title": "Bias-Variance Decomposition from Bootstrap",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/804",
+      "path": "problems/0804-bias-variance-decomposition-from-bootstrap",
+      "first_solved_at": "2026-10-12T16:29:40.435Z",
+      "last_pushed_at": "2026-10-12T16:29:40.435Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
