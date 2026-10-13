@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**63** solved · 40 problems · 4 labs · 19 math
+**64** solved · 41 problems · 4 labs · 19 math
 
 ![Coverage](./coverage.svg)
 
@@ -43,6 +43,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-10-02 | [solution](problems/0121-vector-element-wise-sum) |
 | [Bias-Variance Decomposition from Bootstrap](https://www.deep-ml.com/problems/804) | medium | 2026-10-12 | [solution](problems/0804-bias-variance-decomposition-from-bootstrap) |
 | [Elastic Net Regression via Gradient Descent](https://www.deep-ml.com/problems/139) | medium | 2026-10-07 | [solution](problems/0139-elastic-net-regression-via-gradient-descent) |
+| [Find the Best Gini-Based Split for a Binary Decision Tree](https://www.deep-ml.com/problems/138) | medium | 2026-10-13 | [solution](problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree) |
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2026-10-08 | [solution](problems/0032-generate-sorted-polynomial-features) |
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-10-06 | [solution](problems/0050-implement-lasso-regression-using-ista) |
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-10-11 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
