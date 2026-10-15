@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T20:13:45.687Z",
+  "generated_at": "2026-10-15T20:24:40.800Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -953,6 +953,19 @@
       "path": "math/0014-orthogonality-and-projections",
       "first_solved_at": "2026-10-15T20:13:43.631Z",
       "last_pushed_at": "2026-10-15T20:13:43.631Z"
+    },
+    "problem:195": {
+      "kind": "problem",
+      "id": "195",
+      "title": "Matrix Determinant & Trace",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/195",
+      "path": "problems/0195-matrix-determinant-trace",
+      "first_solved_at": "2026-10-15T20:24:39.553Z",
+      "last_pushed_at": "2026-10-15T20:24:39.553Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
