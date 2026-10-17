@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**80** solved · 51 problems · 4 labs · 25 math
+**81** solved · 51 problems · 4 labs · 26 math
 
 ![Coverage](./coverage.svg)
 
@@ -88,6 +88,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-10-02 | [solution](math/0007-vector-operations) |
 | [Bayes' Theorem](https://www.deep-ml.com/math-problems/20) | medium | 2026-10-17 | [solution](math/0020-bayes-theorem) |
 | [Bias–Variance Decomposition](https://www.deep-ml.com/math-problems/39) | medium | 2026-10-06 | [solution](math/0039-bias-variance-decomposition) |
+| [Common Distributions I: Bernoulli, Binomial, Uniform](https://www.deep-ml.com/math-problems/21) | medium | 2026-10-17 | [solution](math/0021-common-distributions-i-bernoulli-binomial-uniform) |
 | [Covariance and Correlation](https://www.deep-ml.com/math-problems/17) | medium | 2026-10-06 | [solution](math/0017-covariance-and-correlation) |
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-10-15 | [solution](math/0011-determinants-and-trace) |
 | [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-10-06 | [solution](math/0024-information-theory-entropy) |
