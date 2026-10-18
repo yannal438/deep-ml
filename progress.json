@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T23:47:14.807Z",
+  "generated_at": "2026-10-18T00:11:34.477Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1012,6 +1012,19 @@
       "path": "math/0022-common-distributions-ii-normal-poisson-exponential",
       "first_solved_at": "2026-10-17T23:47:12.855Z",
       "last_pushed_at": "2026-10-17T23:47:12.855Z"
+    },
+    "problem:1101": {
+      "kind": "problem",
+      "id": "1101",
+      "title": "SELECT all rows",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1101",
+      "path": "problems/1101-select-all-rows",
+      "first_solved_at": "2026-10-18T00:11:32.823Z",
+      "last_pushed_at": "2026-10-18T00:11:32.823Z",
+      "language": "sql",
+      "lines": 3
     }
   }
 }
