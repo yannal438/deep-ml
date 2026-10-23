@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**101** solved · 69 problems · 4 labs · 28 math
+**102** solved · 70 problems · 4 labs · 28 math
 
 ![Coverage](./coverage.svg)
 
@@ -72,6 +72,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-10-18 | [solution](problems/0173-implement-k-nearest-neighbors) |
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-10-06 | [solution](problems/0050-implement-lasso-regression-using-ista) |
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-10-11 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
+| [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-10-23 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
 | [Maximum A Posteriori (MAP) Estimation for Bernoulli Parameter](https://www.deep-ml.com/problems/338) | medium | 2026-10-20 | [solution](problems/0338-maximum-a-posteriori-map-estimation-for-bernoulli-parameter) |
 | [Maximum Likelihood Estimation for Gaussian Distribution](https://www.deep-ml.com/problems/337) | medium | 2026-10-20 | [solution](problems/0337-maximum-likelihood-estimation-for-gaussian-distribution) |
 | [Mini-Batch Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/803) | medium | 2026-10-01 | [solution](problems/0803-mini-batch-gradient-descent-step-for-linear-regression) |
