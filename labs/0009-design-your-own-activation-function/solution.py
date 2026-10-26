@@ -17,5 +17,5 @@ def activation(x):
     '''
     # TODO: Implement your activation function
     x = np.clip(x, -500, 500)
-    relu = np.maximum(0, x)
+    relu = np.where(x>=0,x, 0.01 * x)
     return relu
