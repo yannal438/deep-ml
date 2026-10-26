@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T19:34:55.408Z",
+  "generated_at": "2026-10-26T19:54:19.831Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1381,6 +1381,19 @@
       "path": "problems/0023-softmax-activation-function-implementation",
       "first_solved_at": "2026-10-26T19:34:54.763Z",
       "last_pushed_at": "2026-10-26T19:34:54.763Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:134": {
+      "kind": "problem",
+      "id": "134",
+      "title": "Compute Multi-class Cross-Entropy Loss",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/134",
+      "path": "problems/0134-compute-multi-class-cross-entropy-loss",
+      "first_solved_at": "2026-10-26T19:54:19.047Z",
+      "last_pushed_at": "2026-10-26T19:54:19.047Z",
       "language": "python",
       "lines": 9
     }
