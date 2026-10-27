@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**124** solved · 89 problems · 5 labs · 30 math
+**125** solved · 90 problems · 5 labs · 30 math
 
 ![Coverage](./coverage.svg)
 
@@ -54,6 +54,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-10-01 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix Determinant & Trace](https://www.deep-ml.com/problems/195) | easy | 2026-10-15 | [solution](problems/0195-matrix-determinant-trace) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-09-29 | [solution](problems/0001-matrix-vector-dot-product) |
+| [Mean Squared Error from Scratch](https://www.deep-ml.com/problems/1228) | easy | 2026-10-27 | [solution](problems/1228-mean-squared-error-from-scratch) |
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-09-30 | [solution](problems/0112-min-max-scaling-of-feature-values) |
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-09-30 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
 | [Pairwise Cosine Similarity Matrix](https://www.deep-ml.com/problems/1072) | easy | 2026-10-15 | [solution](problems/1072-pairwise-cosine-similarity-matrix) |
