@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**125** solved · 90 problems · 5 labs · 30 math
+**126** solved · 91 problems · 5 labs · 30 math
 
 ![Coverage](./coverage.svg)
 
@@ -77,6 +77,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Your first JOIN](https://www.deep-ml.com/problems/1109) | easy | 2026-10-18 | [solution](problems/1109-your-first-join) |
 | [Bernoulli Naive Bayes Classifier](https://www.deep-ml.com/problems/140) | medium | 2026-10-20 | [solution](problems/0140-bernoulli-naive-bayes-classifier) |
 | [Bias-Variance Decomposition from Bootstrap](https://www.deep-ml.com/problems/804) | medium | 2026-10-12 | [solution](problems/0804-bias-variance-decomposition-from-bootstrap) |
+| [Binary Cross-Entropy from Logits](https://www.deep-ml.com/problems/1229) | medium | 2026-10-27 | [solution](problems/1229-binary-cross-entropy-from-logits) |
 | [Calculate Explained Variance Ratio for PCA](https://www.deep-ml.com/problems/350) | medium | 2026-10-20 | [solution](problems/0350-calculate-explained-variance-ratio-for-pca) |
 | [Cholesky Decomposition](https://www.deep-ml.com/problems/334) | medium | 2026-10-23 | [solution](problems/0334-cholesky-decomposition) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-10-26 | [solution](problems/0219-derivative-of-softmax) |
