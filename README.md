@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**121** solved · 86 problems · 5 labs · 30 math
+**122** solved · 87 problems · 5 labs · 30 math
 
 ![Coverage](./coverage.svg)
 
@@ -95,6 +95,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Precision and Recall at Threshold](https://www.deep-ml.com/problems/849) | medium | 2026-10-02 | [solution](problems/0849-precision-and-recall-at-threshold) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-09-30 | [solution](problems/0842-standardscaler-fit-and-transform) |
 | [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-10-01 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
+| [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-10-27 | [solution](problems/1225-two-layer-mlp-forward-pass) |
 | [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2026-10-24 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-10-23 | [solution](problems/0201-qr-decomposition) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-10-01 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
