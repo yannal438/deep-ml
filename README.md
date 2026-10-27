@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**123** solved · 88 problems · 5 labs · 30 math
+**124** solved · 89 problems · 5 labs · 30 math
 
 ![Coverage](./coverage.svg)
 
@@ -92,6 +92,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Maximum Likelihood Estimation for Gaussian Distribution](https://www.deep-ml.com/problems/337) | medium | 2026-10-20 | [solution](problems/0337-maximum-likelihood-estimation-for-gaussian-distribution) |
 | [Mini-Batch Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/803) | medium | 2026-10-01 | [solution](problems/0803-mini-batch-gradient-descent-step-for-linear-regression) |
 | [Nth-Highest Salary with Ties and NULL](https://www.deep-ml.com/problems/1110) | medium | 2026-10-18 | [solution](problems/1110-nth-highest-salary-with-ties-and-null) |
+| [Numerically Stable Softmax](https://www.deep-ml.com/problems/1227) | medium | 2026-10-27 | [solution](problems/1227-numerically-stable-softmax) |
 | [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-10-08 | [solution](problems/0801-polynomial-regression-fit) |
 | [Precision and Recall at Threshold](https://www.deep-ml.com/problems/849) | medium | 2026-10-02 | [solution](problems/0849-precision-and-recall-at-threshold) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-09-30 | [solution](problems/0842-standardscaler-fit-and-transform) |
