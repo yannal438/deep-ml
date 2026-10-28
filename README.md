@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**129** solved · 91 problems · 5 labs · 33 math
+**130** solved · 92 problems · 5 labs · 33 math
 
 ![Coverage](./coverage.svg)
 
@@ -97,6 +97,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Numerically Stable Softmax](https://www.deep-ml.com/problems/1227) | medium | 2026-10-27 | [solution](problems/1227-numerically-stable-softmax) |
 | [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-10-08 | [solution](problems/0801-polynomial-regression-fit) |
 | [Precision and Recall at Threshold](https://www.deep-ml.com/problems/849) | medium | 2026-10-02 | [solution](problems/0849-precision-and-recall-at-threshold) |
+| [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-10-28 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-09-30 | [solution](problems/0842-standardscaler-fit-and-transform) |
 | [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-10-01 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
 | [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-10-27 | [solution](problems/1225-two-layer-mlp-forward-pass) |
